@@ -7,19 +7,19 @@ Passionate Software Developer | Transforming ideas into elegant solutions 🚀
 
 Welcome to my GitHub profile! 👋
 
-I'm [Your Name], a motivated software developer crafting exceptional solutions with a focus on efficiency and user-friendliness.
+I'm Nathan, a motivated software developer crafting exceptional solutions with a focus on efficiency and user-friendliness.
 
-💻 Tech Stack: [List your preferred programming languages, frameworks, and tools]
+💻 Tech Stack: MERN
 
 🚀 Proven track record of delivering high-quality software solutions.
 
-🌱 Currently exploring [mention any areas or technologies you're learning].
+🌱 Currently exploring Tailwind and E-Commerce.
 
-🔧 Experience with [mention relevant experience or projects].
+🔧 Experience with Full stack web development.
 
 🌟 Strong believer in collaboration and open-source development.
 
-🌐 Let's connect and collaborate! [Include contact information].
+🌐 Let's connect and collaborate!.
 
 Happy coding! 💻✨
 -->
