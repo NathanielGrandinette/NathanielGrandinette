@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**NathanielGrandinette/NathanielGrandinette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Passionate Software Developer | Transforming ideas into elegant solutions 🚀
 
 Welcome to my GitHub profile! 👋
@@ -22,4 +17,3 @@ I'm Nathan, a motivated software developer crafting exceptional solutions with a
 🌐 Let's connect and collaborate!.
 
 Happy coding! 💻✨
--->
