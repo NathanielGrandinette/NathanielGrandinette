@@ -14,6 +14,6 @@ I'm Nathan, a motivated software developer crafting exceptional solutions with a
 
 🌟 Strong believer in collaboration and open-source development.
 
-🌐 Let's connect and collaborate!.
+🌐 Let's connect and collaborate!. ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
 Happy coding! 💻✨
