@@ -25,10 +25,10 @@ Happy coding! 💻✨
 <table align="center" margin-top="400">
   <tr>
     <td>
-      <img src="https://github.com/NathanielGrandinette/NathanielGrandinette/assets/110182749/c0039c6c-2ded-4ca7-85f1-950c01bc9a80" height="100%"               align="left"/>
+      <img src="https://github.com/NathanielGrandinette/NathanielGrandinette/assets/110182749/c0039c6c-2ded-4ca7-85f1-950c01bc9a80" height="400" width="100%"/>
     </td>
     <td>
-      <img src="https://github.com/NathanielGrandinette/NathanielGrandinette/assets/110182749/28ca5f26-a0ca-4405-878c-8efd22be6f94" height="400"               align="right"/> 
+      <img src="https://github.com/NathanielGrandinette/NathanielGrandinette/assets/110182749/28ca5f26-a0ca-4405-878c-8efd22be6f94" height="400" width="100%"/> 
     </td>
   </tr>
   <tr>
