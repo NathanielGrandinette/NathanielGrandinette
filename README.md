@@ -33,10 +33,10 @@ Happy coding! 💻✨
   </tr>
   <tr>
     <td width="45%" align="center">
-       This project is focused on developing a todo list app that provides a streamlined and intuitive interface for managing tasks and staying                  organized using React. We used Oauth2 to allow users to sign in using a google account as well as JSON web tokens and requireAuth middleware for          user authentication and authorization. Tasks and notes are stored in a MongoDB database as well as account settings.
+       This project is focused on developing an e-commerce site that provides a way for users to shop products, and place orders using React. We used JSON web tokens for authentication and user roles and custom middleware for authorization. Admins can add, edit and delete products, as well as edit user roles. On the front end we used custom hooks for global state, axios for our API calls, and Jest for our testing. The back end uses custom middleware for user auth, error handling, and roles. We used a combination of multer and cloudinary for image uploads and storage. We used Vercel for deployment with the front end and back end deployed seperately.
     </td>
     <td width="45%" align="center">
-      This project is focused on developing a todo list app that provides a streamlined and intuitive interface for managing tasks and staying organized       using React. We used Oauth2 to allow users to sign in using a google account as well as JSON web tokens and requireAuth middleware for user               authentication and authorization. Tasks and notes are stored in a MongoDB database as well as account settings.
+      This project is focused on developing a todo list app that provides a streamlined and intuitive interface for managing tasks and staying organized using React. We used Oauth2 to allow users to sign in using a google account as well as JSON web tokens and requireAuth middleware for user authentication and authorization. Users can create tasks and notes. Tasks can be viewed in a list format or on a calendar with drag and drop capabilities. This app is deployed as a full stack application on Heroku.
     </td>
   </tr>
 </table>
